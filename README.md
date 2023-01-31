@@ -1,10 +1,10 @@
 # replit-and-uptimerobot
 How to use repl.it and UpTimeRobot to run Python Scripts on a schedule in the cloud 24/7 for free
 
-1. Create a replt account: [Here](https://replit.com/)
+1. Create a repl account: [Here](https://replit.com/)
 2. New python repl
-3. Upload the files (except .env)
-4. Use the Secret tab to add the .env vars
+3. Upload the files (except .env if you are using .env)
+4. Use the Secret tab to add the .env vars (if you are using .env)
 5. Run the code!!!
 6. A webdriver tab will open on the left side of the page. Copy the url
 
@@ -24,5 +24,7 @@ How to use repl.it and UpTimeRobot to run Python Scripts on a schedule in the cl
 `Timeout: 30 seconds`
 
 The remaining configurations can be default, just scroll down and click on `Create the Monitor`
+
+9. Rerun the cond on repl
 
 
