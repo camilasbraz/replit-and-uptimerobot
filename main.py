@@ -9,7 +9,6 @@ time_to_wait = 24
 def loop():
     while True:
         try:
-            playlistGen()
             print(f'\nNice!!!!\n')
             time.sleep(time_to_wait * 3600)
         except Exception as e:
